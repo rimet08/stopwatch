@@ -21,3 +21,15 @@ function stop(){
         isRunning = false;
     }
 }
+
+function reset(){
+    clearInterval(timer);
+
+}
+
+function updateTime(){{
+    const currentTime = Date.now();
+    elapsedTime = currentTime - startTime;
+
+    let hours = Math.floor(elapsedTime / (1000 * 60 * 60));
+}

@@ -28,3 +28,14 @@ body {
     text-shadow: 2px 2px 2px black;
     margin-bottom: 20px;
 }
+
+#controls button {
+    font-weight: bold;
+    padding: 10px 20px;
+    margin: 5px;
+    min-width: 125px;
+    border-radius: 10px;
+    cursor: pointer;
+    color: white;
+
+}

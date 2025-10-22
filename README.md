@@ -1,3 +1,3 @@
 - *Stopwatch*
 - Using JS, CSS and HTML
-- Tutorial ->
+- Tutorial from -> https://www.youtube.com/watch?v=d8-LGhKtzRw

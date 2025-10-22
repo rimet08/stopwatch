@@ -31,7 +31,7 @@ function reset(){
 
 }
 
-function updateTime(){{
+function updateTime(){
     const currentTime = Date.now();
     elapsedTime = currentTime - startTime;
 
